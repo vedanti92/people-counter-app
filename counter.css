@@ -19,6 +19,9 @@ button {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border-radius: 5px;
 }
+#save-btn {
+    margin: 10px;
+}
 button:hover {
     cursor: pointer;
 }
